@@ -8,7 +8,7 @@
     "targetFolder": "dist",
     "sourceFolder": "webapp",
     "buildRequired": false,
-    "lastBuildDateTime": "Mon, 30 Oct 2017 20:23:28 GMT"
+    "lastBuildDateTime": "Mon, 30 Oct 2017 20:25:15 GMT"
   },
   "generation": [
     {
@@ -48,6 +48,6 @@
   "hcpdeploy": {
     "account": "s0001142741trial",
     "name": "showsuggestionsetsizelimit",
-    "lastVersionWeTriedToDeploy": "0.0.1"
+    "lastVersionWeTriedToDeploy": "0.0.2"
   }
 }
