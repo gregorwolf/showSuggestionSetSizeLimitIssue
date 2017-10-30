@@ -1,0 +1,1942 @@
+{
+	"d": {
+		"results": [
+		{
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AF",
+			"country": "Afghanistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AT",
+			"country": "Österreich"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AL",
+			"country": "Albanien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DZ",
+			"country": "Algerien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VI",
+			"country": "Amer.Jungferni."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AD",
+			"country": "Andorra"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AO",
+			"country": "Angola"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AI",
+			"country": "Anguilla"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AQ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AQ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AQ",
+			"country": "Antarctica"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AG",
+			"country": "Antigua/Barbuda"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AR",
+			"country": "Argentinien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AM",
+			"country": "Armenien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AW",
+			"country": "Aruba"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AZ",
+			"country": "Aserbaidschan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AU",
+			"country": "Australien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BS",
+			"country": "Bahamas"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BH",
+			"country": "Bahrain"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BD",
+			"country": "Bangladesh"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BB')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BB')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BB",
+			"country": "Barbados"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BE",
+			"country": "Belgien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BZ",
+			"country": "Belize"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BJ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BJ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BJ",
+			"country": "Benin"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BM",
+			"country": "Bermuda"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BT",
+			"country": "Bhutan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BO",
+			"country": "Bolivien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BA",
+			"country": "Bosnien-Herz."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BW",
+			"country": "Botsuana"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BV",
+			"country": "Bouvet Inseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BR",
+			"country": "Brasilien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IO",
+			"country": "Brit.Geb.Ind.Oz"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VG",
+			"country": "Brit.Jungferni."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BN",
+			"country": "Brunei Darussal"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BG",
+			"country": "Bulgarien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BF",
+			"country": "Burkina-Faso"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BI",
+			"country": "Burundi"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CA",
+			"country": "Canada"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CL",
+			"country": "Chile"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CN",
+			"country": "China"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CK",
+			"country": "Cookinseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CR",
+			"country": "Costa Rica"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DE",
+			"country": "Deutschland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DM",
+			"country": "Dominica"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DO",
+			"country": "Dominik. Rep."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DJ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DJ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DJ",
+			"country": "Dschibuti"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('DK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "DK",
+			"country": "Dänemark"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "EC",
+			"country": "Ecuador"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SV",
+			"country": "El Salvador"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CI",
+			"country": "Elfenbeinküste"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ER')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ER')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ER",
+			"country": "Eritrea"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "EE",
+			"country": "Estland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FK",
+			"country": "Falklandinseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FJ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FJ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FJ",
+			"country": "Fidschi"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FI",
+			"country": "Finnland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FR",
+			"country": "Frankreich"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PF",
+			"country": "FranzPolynesien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GF",
+			"country": "Französ.Guayana"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FO",
+			"country": "Färöer"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GA",
+			"country": "Gabun"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GM",
+			"country": "Gambia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GE",
+			"country": "Georgien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GH",
+			"country": "Ghana"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GI",
+			"country": "Gibraltar"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GD",
+			"country": "Grenada"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GR",
+			"country": "Griechenland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GL",
+			"country": "Grönland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GP",
+			"country": "Guadeloupe"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GU",
+			"country": "Guam"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GT",
+			"country": "Guatemala"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GN",
+			"country": "Guinea"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GW",
+			"country": "Guinea-Bissau"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GY",
+			"country": "Guyana"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HT",
+			"country": "Haiti"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HM",
+			"country": "Heard/McDon.Ins"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HN",
+			"country": "Honduras"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HK",
+			"country": "Hongkong"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IN",
+			"country": "Indien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ID')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ID')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ID",
+			"country": "Indonesien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IQ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IQ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IQ",
+			"country": "Irak"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IR",
+			"country": "Iran"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IE",
+			"country": "Irland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IS",
+			"country": "Island"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IL",
+			"country": "Israel"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('IT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "IT",
+			"country": "Italien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "JM",
+			"country": "Jamaika"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "JP",
+			"country": "Japan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('YE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('YE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "YE",
+			"country": "Jemen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('JO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "JO",
+			"country": "Jordanien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KY",
+			"country": "Kaimaninseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KH",
+			"country": "Kambodscha"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CM",
+			"country": "Kamerun"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CV",
+			"country": "Kap Verde"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KZ",
+			"country": "Kasachstan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KE",
+			"country": "Kenia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KG",
+			"country": "Kirgistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KI",
+			"country": "Kiribati"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CC",
+			"country": "Kokosinseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CO",
+			"country": "Kolumbien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KM",
+			"country": "Komoren"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CG",
+			"country": "Kongo"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('XK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('XK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "XK",
+			"country": "Kosovo"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HR",
+			"country": "Kroatien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CU",
+			"country": "Kuba"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KW",
+			"country": "Kuwait"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LA",
+			"country": "Laos"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LS",
+			"country": "Lesotho"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LV",
+			"country": "Lettland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LB')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LB')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LB",
+			"country": "Libanon"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LR",
+			"country": "Liberia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LY",
+			"country": "Libyen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LI",
+			"country": "Liechtenstein"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LT",
+			"country": "Litauen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LU",
+			"country": "Luxemburg"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MO",
+			"country": "Macau"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MG",
+			"country": "Madagaskar"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MW",
+			"country": "Malawi"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MY",
+			"country": "Malaysia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MV",
+			"country": "Malediven"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ML')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ML')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ML",
+			"country": "Mali"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MT",
+			"country": "Malta"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MA",
+			"country": "Marokko"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MH",
+			"country": "Marshall-Insel"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MQ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MQ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MQ",
+			"country": "Martinique"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MR",
+			"country": "Mauretanien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MU",
+			"country": "Mauritius"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('YT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('YT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "YT",
+			"country": "Mayotte"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MK",
+			"country": "Mazedonien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MX')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MX')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MX",
+			"country": "Mexiko"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('FM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "FM",
+			"country": "Micronesien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "UM",
+			"country": "Minor Outl.Ins."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MD",
+			"country": "Moldau"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MC",
+			"country": "Monaco"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MN",
+			"country": "Mongolei"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ME')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ME')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ME",
+			"country": "Montenegro"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MS",
+			"country": "Montserrat"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MZ",
+			"country": "Mosambik"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MM",
+			"country": "Myanmar"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('MP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "MP",
+			"country": "N.Mariana Insel"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NA",
+			"country": "Namibia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NR",
+			"country": "Nauru"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NP",
+			"country": "Nepal"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NC",
+			"country": "Neukaledonien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NZ",
+			"country": "Neuseeland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NI",
+			"country": "Nicaragua"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AN",
+			"country": "Niederl.Antill."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NL",
+			"country": "Niederlande"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NE",
+			"country": "Niger"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NG",
+			"country": "Nigeria"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NU",
+			"country": "Niue-Inseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KP",
+			"country": "Nordkorea"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KC",
+			"country": "Nordzypern"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NF",
+			"country": "Norfolkinseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('NO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "NO",
+			"country": "Norwegen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('OM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('OM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "OM",
+			"country": "Oman"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TP')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TP')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TP",
+			"country": "Ost Timor"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PK",
+			"country": "Pakistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PW",
+			"country": "Palau"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PS",
+			"country": "Palästina"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PA",
+			"country": "Panama"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PG",
+			"country": "Papua-Neuguinea"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PY",
+			"country": "Paraguay"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PE",
+			"country": "Peru"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PH",
+			"country": "Philippinen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PN",
+			"country": "Pitcairn Inseln"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PL",
+			"country": "Polen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PT",
+			"country": "Portugal"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PR",
+			"country": "Puerto Rico"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('QA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('QA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "QA",
+			"country": "Qatar"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "RE",
+			"country": "Reunion"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "RW",
+			"country": "Ruanda"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "RO",
+			"country": "Rumänien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "RU",
+			"country": "Russische Foed."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ST')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ST')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ST",
+			"country": "S.Tome,Principe"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SB')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SB')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SB",
+			"country": "Salomonen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ZM",
+			"country": "Sambia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AS",
+			"country": "Samoa,American"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SM",
+			"country": "San Marino"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SA",
+			"country": "Saudi-Arabien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SE",
+			"country": "Schweden"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CH",
+			"country": "Schweiz"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SN",
+			"country": "Senegal"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CS",
+			"country": "Serbia/Monteneg"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('XS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('XS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "XS",
+			"country": "Serbien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('RS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "RS",
+			"country": "Serbien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SC",
+			"country": "Seschellen"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SL",
+			"country": "Sierra Leone"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ZW",
+			"country": "Simbabwe"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SG",
+			"country": "Singapur"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SK",
+			"country": "Slowakei"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SI')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SI')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SI",
+			"country": "Slowenien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SO",
+			"country": "Somalia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ES')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ES')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ES",
+			"country": "Spanien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LK",
+			"country": "Sri Lanka"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SH",
+			"country": "St. Helena"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('LC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "LC",
+			"country": "St. Lucia"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VC",
+			"country": "St. Vincent"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KN",
+			"country": "St.Chr.,Nevis"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('PM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "PM",
+			"country": "StPier.,Miquel."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('STL')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('STL')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "STL",
+			"country": "Staatenlos"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SD",
+			"country": "Sudan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SR",
+			"country": "Suriname"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SJ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SJ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SJ",
+			"country": "Svalbard"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SZ",
+			"country": "Swasiland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('SY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "SY",
+			"country": "Syrien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ZA",
+			"country": "Südafrika"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('KR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "KR",
+			"country": "Südkorea"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TJ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TJ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TJ",
+			"country": "Tadschikistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TW')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TW')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TW",
+			"country": "Taiwan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TZ",
+			"country": "Tansania"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TH')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TH')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TH",
+			"country": "Thailand"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TG",
+			"country": "Togo"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TK')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TK')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TK",
+			"country": "Tokelau-Insel"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TO')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TO')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TO",
+			"country": "Tonga"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TT')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TT')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TT",
+			"country": "Trinidad,Tobago"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TD')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TD')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TD",
+			"country": "Tschad"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CZ",
+			"country": "Tschech. Rep."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TN",
+			"country": "Tunesien"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TM')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TM')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TM",
+			"country": "Turkmenistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TC')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TC')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TC",
+			"country": "Turks-,Caicosin"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TV')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TV')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TV",
+			"country": "Tuvalu"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('TR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "TR",
+			"country": "Türkei"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('US')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('US')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "US",
+			"country": "USA"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "UG",
+			"country": "Uganda"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "UA",
+			"country": "Ukraine"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('HU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "HU",
+			"country": "Ungarn"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GB')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GB')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GB",
+			"country": "United Kingdom"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "UY",
+			"country": "Uruguay"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UZ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('UZ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "UZ",
+			"country": "Usbekistan"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VU')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VU')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VU",
+			"country": "Vanuatu"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VA')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VA')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VA",
+			"country": "Vatikanstadt"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VE",
+			"country": "Venezuela"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AE')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('AE')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "AE",
+			"country": "Ver.Arab.Emir."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VN')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('VN')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "VN",
+			"country": "Vietnam"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('WF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('WF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "WF",
+			"country": "Wallis,Futuna"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CX')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CX')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CX",
+			"country": "Weihnachtsinsel"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('BY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "BY",
+			"country": "Weissrussland"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('WS')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('WS')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "WS",
+			"country": "Westsamoa"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZR')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ZR')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ZR",
+			"country": "Zaire"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CF')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CF')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CF",
+			"country": "Zentralaf. Rep."
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CY')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('CY')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "CY",
+			"country": "Zypern"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EG')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('EG')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "EG",
+			"country": "Ägypten"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GQ')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('GQ')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "GQ",
+			"country": "Äquatorialguine"
+		}, {
+			"__metadata": {
+				"id": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ET')",
+				"uri": "https://webidetesting8583093-a9d1d8ee1.dispatcher.hana.ondemand.com/sap/opu/odata/sap/ZCRM_OPPORTUNITY_SRV/CustomizingCountryCollection('ET')",
+				"type": "CRM_OPPORTUNITY.CustomizingCountry"
+			},
+			"countryID": "ET",
+			"country": "Äthiopien"
+		}]
+	}
+}

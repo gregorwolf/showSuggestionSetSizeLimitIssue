@@ -1,0 +1,51 @@
+<mvc:View controllerName="com.computerservice-wolf.test.showSuggestionSetSizeLimitIssue.controller.V"
+	xmlns:l="sap.ui.layout"
+	xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<l:VerticalLayout
+		class="sapUiContentPadding"
+		width="100%">
+		<l:content>
+			<Text text="Enter Cepat in the Products and you will not get any result 
+				as the Product Cepat is in the last entries and the default SizeLimit is 100
+				and the SizeLimit seems not changeable after the data is read" />
+			<Label text="Product" labelFor="productInput"/>
+			<Input
+				id="productInput"
+				type="Text"
+				placeholder="Enter Product ..."
+				showSuggestion="true"
+				suggestionItems="{/ProductCollection}" >
+				<suggestionItems>
+					<core:Item text="{Name}" />
+				</suggestionItems>
+			</Input>
+			<Label text="Number of Products" labelFor="numberOfProductsInput"/>
+			<Input
+				id="numberOfProductsInput"
+				type="Text"
+				editable="false"
+				value="{/ProductCollection/length}"></Input>
+
+			<Text text="Enter Cepat in the Product2 field and you will get a result because here setSizeLimit was called before binding to view" />
+			<Label text="Product2" labelFor="product2Input"/>
+			<Input
+				id="product2Input"
+				type="Text"
+				placeholder="Enter Product ..."
+				showSuggestion="true"
+				suggestionItems="{Products>/ProductCollection}" >
+				<suggestionItems>
+					<core:Item text="{Products>Name}" />
+				</suggestionItems>
+			</Input>
+			<Label text="Number of Countries" labelFor="numberOfProduct2Input"/>
+			<Input
+				id="numberOfProduct2Input"
+				type="Text"
+				editable="false"
+				value="{Products>/ProductCollection/length}"></Input>
+		</l:content>
+	</l:VerticalLayout>
+</mvc:View>
